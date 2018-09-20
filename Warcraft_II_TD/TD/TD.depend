@@ -1,0 +1,1320 @@
+# depslib dependency file v1.0
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\last td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\last td\animations.h
+	"global.h"
+
+1377053237 c:\users\rebecca\documents\ec\if669\projeto\last td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\last td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\last td\cursor.c
+	"cursor.h"
+
+1377632746 source:c:\users\rebecca\documents\ec\if669\projeto\last td\enemy.c
+	"enemy.h"
+
+1377632636 c:\users\rebecca\documents\ec\if669\projeto\last td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\last td\map.h
+	"global.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\last td\global.c
+	"global.h"
+
+1377523130 source:c:\users\rebecca\documents\ec\if669\projeto\last td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\last td\initialization.h
+	"global.h"
+
+1377287100 source:c:\users\rebecca\documents\ec\if669\projeto\last td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\last td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\last td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\last td\mainmenu.h
+	"global.h"
+
+1378219803 c:\users\rebecca\documents\ec\if669\projeto\last td\gamescreen.h
+	"global.h"
+
+1377019261 source:c:\users\rebecca\documents\ec\if669\projeto\last td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\last td\map.c
+	"map.h"
+	"tower.h"
+
+1378218365 c:\users\rebecca\documents\ec\if669\projeto\last td\tower.h
+	"global.h"
+	"player.h"
+
+1377057751 source:c:\users\rebecca\documents\ec\if669\projeto\last td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\last td\player.c
+	"player.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\last td\player.h
+	"global.h"
+	"tower.h"
+
+1377170664 source:c:\users\rebecca\documents\ec\if669\projeto\last td\read_entry.c
+	"read_entry.h"
+
+1377170659 c:\users\rebecca\documents\ec\if669\projeto\last td\read_entry.h
+	"global.h"
+
+1377019384 source:c:\users\rebecca\documents\ec\if669\projeto\last td\titlescreen.c
+	"titlescreen.h"
+
+1378220248 source:c:\users\rebecca\documents\ec\if669\projeto\last td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1378219764 source:c:\users\rebecca\documents\ec\if669\projeto\last td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\animations.h
+	"global.h"
+
+1377053237 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\cursor.c
+	"cursor.h"
+
+1377632746 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\enemy.c
+	"enemy.h"
+
+1377632636 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\map.h
+	"global.h"
+
+1378221309 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+
+1378219803 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\player.h
+	"global.h"
+	"tower.h"
+
+1378218365 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\tower.h
+	"global.h"
+	"player.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\global.c
+	"global.h"
+
+1377523130 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\initialization.h
+	"global.h"
+
+1377287100 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\mainmenu.h
+	"global.h"
+
+1377019261 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\map.c
+	"map.h"
+	"tower.h"
+
+1377057751 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\player.c
+	"player.h"
+
+1377170664 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\read_entry.c
+	"read_entry.h"
+
+1377170659 c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\read_entry.h
+	"global.h"
+
+1377019384 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\titlescreen.c
+	"titlescreen.h"
+
+1378220248 source:c:\users\rebecca\documents\ec\if669\projeto\backup12\last td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\backup13\animations.h
+	"global.h"
+
+1378339836 c:\users\rebecca\documents\ec\if669\projeto\backup13\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\backup13\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\cursor.c
+	"cursor.h"
+
+1378383018 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\enemy.c
+	"enemy.h"
+
+1378382928 c:\users\rebecca\documents\ec\if669\projeto\backup13\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\backup13\map.h
+	"global.h"
+
+1378386428 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+
+1378229442 c:\users\rebecca\documents\ec\if669\projeto\backup13\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\backup13\player.h
+	"global.h"
+	"tower.h"
+
+1378396191 c:\users\rebecca\documents\ec\if669\projeto\backup13\tower.h
+	"global.h"
+	"player.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\global.c
+	"global.h"
+
+1378380605 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\backup13\initialization.h
+	"global.h"
+
+1377287100 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\backup13\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\backup13\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\backup13\mainmenu.h
+	"global.h"
+
+1377019261 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\map.c
+	"map.h"
+	"tower.h"
+
+1377057751 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\player.c
+	"player.h"
+
+1377170664 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\read_entry.c
+	"read_entry.h"
+
+1377170659 c:\users\rebecca\documents\ec\if669\projeto\backup13\read_entry.h
+	"global.h"
+
+1378380586 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\titlescreen.c
+	"titlescreen.h"
+
+1378382887 source:c:\users\rebecca\documents\ec\if669\projeto\backup13\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\td\animations.h
+	"global.h"
+
+1378339836 c:\users\rebecca\documents\ec\if669\projeto\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\td\cursor.c
+	"cursor.h"
+
+1378934448 source:c:\users\rebecca\documents\ec\if669\projeto\td\enemy.c
+	"enemy.h"
+
+1378934420 c:\users\rebecca\documents\ec\if669\projeto\td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\td\map.h
+	"global.h"
+
+1378933426 source:c:\users\rebecca\documents\ec\if669\projeto\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1378229442 c:\users\rebecca\documents\ec\if669\projeto\td\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\td\player.h
+	"global.h"
+	"tower.h"
+
+1378934356 c:\users\rebecca\documents\ec\if669\projeto\td\tower.h
+	"global.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+
+1378932269 c:\users\rebecca\documents\ec\if669\projeto\td\shots.h
+	"global.h"
+	"enemy.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\td\global.c
+	"global.h"
+
+1378380605 source:c:\users\rebecca\documents\ec\if669\projeto\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\td\initialization.h
+	"global.h"
+
+1378593048 source:c:\users\rebecca\documents\ec\if669\projeto\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\td\mainmenu.h
+	"global.h"
+
+1378580663 source:c:\users\rebecca\documents\ec\if669\projeto\td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\td\map.c
+	"map.h"
+	"tower.h"
+
+1378580646 source:c:\users\rebecca\documents\ec\if669\projeto\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\td\player.c
+	"player.h"
+
+1378580676 source:c:\users\rebecca\documents\ec\if669\projeto\td\titlescreen.c
+	"titlescreen.h"
+
+1378932524 source:c:\users\rebecca\documents\ec\if669\projeto\td\shots.c
+	"shots.h"
+
+1378935433 source:c:\users\rebecca\documents\ec\if669\projeto\td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\animations.h
+	"global.h"
+
+1378339836 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\cursor.c
+	"cursor.h"
+
+1378383018 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\enemy.c
+	"enemy.h"
+
+1378382928 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\map.h
+	"global.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\global.c
+	"global.h"
+
+1378380605 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\initialization.h
+	"global.h"
+
+1377287100 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\mainmenu.h
+	"global.h"
+
+1378229442 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\gamescreen.h
+	"global.h"
+
+1377019261 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\map.c
+	"map.h"
+	"tower.h"
+
+1378425529 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\tower.h
+	"global.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\player.h
+	"global.h"
+	"tower.h"
+
+1378425380 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\shots.h
+	"global.h"
+
+1377057751 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\player.c
+	"player.h"
+
+1377170664 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\read_entry.c
+	"read_entry.h"
+
+1377170659 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\read_entry.h
+	"global.h"
+
+1378380586 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\titlescreen.c
+	"titlescreen.h"
+
+1378577819 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1378579025 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1378575838 c:\users\rebecca\documents\ec\if669\projeto\backup25\td\round.h
+	"global.h"
+	"enemy.h"
+
+1378575439 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\round.c
+	"round.h"
+
+1378425886 source:c:\users\rebecca\documents\ec\if669\projeto\backup25\td\shots.c
+	"shots.h"
+
+1378910706 source:c:\users\rebecca\documents\ec\if669\projeto\td\round.c
+	"round.h"
+
+1378910722 c:\users\rebecca\documents\ec\if669\projeto\td\round.h
+	"global.h"
+	"enemy.h"
+
+1378590268 source:c:\users\rebecca\documents\ec\if669\projeto\td\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rebecca\documents\ec\if669\projeto\td\ending_lose.h
+	"global.h"
+
+1378590600 source:c:\users\rebecca\documents\ec\if669\projeto\td\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rebecca\documents\ec\if669\projeto\td\ending_win.h
+	"global.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\animations.h
+	"global.h"
+
+1378339836 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\cursor.c
+	"cursor.h"
+
+1378590268 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\ending_lose.h
+	"global.h"
+
+1378590600 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\ending_win.h
+	"global.h"
+
+1378383018 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\enemy.c
+	"enemy.h"
+
+1378382928 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\map.h
+	"global.h"
+
+1378923097 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1378229442 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\player.h
+	"global.h"
+	"tower.h"
+
+1378918799 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\tower.h
+	"global.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+
+1378920499 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\shots.h
+	"global.h"
+	"enemy.h"
+
+1378910722 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\round.h
+	"global.h"
+	"enemy.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\global.c
+	"global.h"
+
+1378380605 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\initialization.h
+	"global.h"
+
+1378593048 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\backup28\td\mainmenu.h
+	"global.h"
+
+1378580663 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\map.c
+	"map.h"
+	"tower.h"
+
+1378580646 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\player.c
+	"player.h"
+
+1378910706 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\round.c
+	"round.h"
+
+1378923371 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\shots.c
+	"shots.h"
+
+1378580676 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\titlescreen.c
+	"titlescreen.h"
+
+1378926399 source:c:\users\rebecca\documents\ec\if669\projeto\backup28\td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1377055867 source:c:\users\rodolfo\desktop\32\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rodolfo\desktop\32\td\animations.h
+	"global.h"
+
+1378339836 c:\users\rodolfo\desktop\32\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rodolfo\desktop\32\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rodolfo\desktop\32\td\cursor.c
+	"cursor.h"
+
+1378590268 source:c:\users\rodolfo\desktop\32\td\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rodolfo\desktop\32\td\ending_lose.h
+	"global.h"
+
+1378590600 source:c:\users\rodolfo\desktop\32\td\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rodolfo\desktop\32\td\ending_win.h
+	"global.h"
+
+1379019650 source:c:\users\rodolfo\desktop\32\td\enemy.c
+	"enemy.h"
+
+1378934420 c:\users\rodolfo\desktop\32\td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rodolfo\desktop\32\td\map.h
+	"global.h"
+
+1377013255 source:c:\users\rodolfo\desktop\32\td\global.c
+	"global.h"
+
+1378380605 source:c:\users\rodolfo\desktop\32\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rodolfo\desktop\32\td\initialization.h
+	"global.h"
+
+1378593048 source:c:\users\rodolfo\desktop\32\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+
+1377053899 c:\users\rodolfo\desktop\32\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rodolfo\desktop\32\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rodolfo\desktop\32\td\mainmenu.h
+	"global.h"
+
+1378229442 c:\users\rodolfo\desktop\32\td\gamescreen.h
+	"global.h"
+
+1378580663 source:c:\users\rodolfo\desktop\32\td\mainmenu.c
+	"mainmenu.h"
+
+1377541301 source:c:\users\rodolfo\desktop\32\td\map.c
+	"map.h"
+	"tower.h"
+
+1378940362 c:\users\rodolfo\desktop\32\td\tower.h
+	"global.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+
+1378218423 c:\users\rodolfo\desktop\32\td\player.h
+	"global.h"
+	"tower.h"
+
+1378932269 c:\users\rodolfo\desktop\32\td\shots.h
+	"global.h"
+	"enemy.h"
+
+1378580646 source:c:\users\rodolfo\desktop\32\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rodolfo\desktop\32\td\player.c
+	"player.h"
+
+1378910706 source:c:\users\rodolfo\desktop\32\td\round.c
+	"round.h"
+
+1378910722 c:\users\rodolfo\desktop\32\td\round.h
+	"global.h"
+	"enemy.h"
+
+1379115972 source:c:\users\rodolfo\desktop\32\td\shots.c
+	"shots.h"
+
+1378580676 source:c:\users\rodolfo\desktop\32\td\titlescreen.c
+	"titlescreen.h"
+
+1379023251 source:c:\users\rodolfo\desktop\32\td\tower.c
+	"tower.h"
+	"gamescreen.h"
+
+1379113323 source:c:\users\rodolfo\desktop\32\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1377055867 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\animations.h
+	"global.h"
+
+1379459327 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\cursor.c
+	"cursor.h"
+
+1378590268 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\ending_lose.h
+	"global.h"
+
+1379445055 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\ending_win.h
+	"global.h"
+
+1379469561 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\enemy.c
+	"enemy.h"
+
+1379467604 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\map.h
+	"global.h"
+
+1379480921 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1379433768 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\player.h
+	"global.h"
+	"tower.h"
+
+1379445773 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\tower.h
+	"global.h"
+	"gamescreen.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+	"round.h"
+
+1379445568 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\shots.h
+	"global.h"
+	"enemy.h"
+	"gamescreen.h"
+
+1379441998 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\round.h
+	"global.h"
+	"enemy.h"
+
+1377013255 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\global.c
+	"global.h"
+
+1379459061 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\initialization.h
+	"global.h"
+
+1379460204 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"ending_win.h"
+	"ending_lose.h"
+	"credits.h"
+
+1377053899 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\mainmenu.h
+	"global.h"
+
+1379461767 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\mainmenu.c
+	"mainmenu.h"
+
+1379449036 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\map.c
+	"map.h"
+	"tower.h"
+
+1379460258 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\player.c
+	"player.h"
+
+1379442184 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\round.c
+	"round.h"
+
+1379445545 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\shots.c
+	"shots.h"
+
+1378580676 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\titlescreen.c
+	"titlescreen.h"
+
+1379450046 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\tower.c
+	"tower.h"
+
+1379462549 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\credits.c
+	"credits.h"
+
+1379459384 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\credits.h
+	"global.h"
+
+1379467054 c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\settings.h
+	"global.h"
+	"cursor.h"
+
+1379470971 source:c:\users\rebecca\documents\ec\if669\projeto\modificação_32\32.2\td\settings.c
+
+1377055867 source:c:\users\rodolfo\downloads\58\animations.c
+	"animations.h"
+
+1377055865 c:\users\rodolfo\downloads\58\animations.h
+	"global.h"
+
+1379459327 c:\users\rodolfo\downloads\58\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rodolfo\downloads\58\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rodolfo\downloads\58\cursor.c
+	"cursor.h"
+
+1378590268 source:c:\users\rodolfo\downloads\58\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rodolfo\downloads\58\ending_lose.h
+	"global.h"
+
+1379445055 source:c:\users\rodolfo\downloads\58\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rodolfo\downloads\58\ending_win.h
+	"global.h"
+
+1379469561 source:c:\users\rodolfo\downloads\58\enemy.c
+	"enemy.h"
+
+1379467604 c:\users\rodolfo\downloads\58\enemy.h
+	"global.h"
+	"map.h"
+
+1377541319 c:\users\rodolfo\downloads\58\map.h
+	"global.h"
+
+1379492069 source:c:\users\rodolfo\downloads\58\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1379433768 c:\users\rodolfo\downloads\58\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rodolfo\downloads\58\player.h
+	"global.h"
+	"tower.h"
+
+1379492358 c:\users\rodolfo\downloads\58\tower.h
+	"global.h"
+	"gamescreen.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+	"round.h"
+
+1379491777 c:\users\rodolfo\downloads\58\shots.h
+	"global.h"
+	"enemy.h"
+	"gamescreen.h"
+
+1379441998 c:\users\rodolfo\downloads\58\round.h
+	"global.h"
+	"enemy.h"
+
+1377013255 source:c:\users\rodolfo\downloads\58\global.c
+	"global.h"
+
+1379459061 source:c:\users\rodolfo\downloads\58\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rodolfo\downloads\58\initialization.h
+	"global.h"
+
+1379460204 source:c:\users\rodolfo\downloads\58\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"ending_win.h"
+	"ending_lose.h"
+	"credits.h"
+
+1377053899 c:\users\rodolfo\downloads\58\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rodolfo\downloads\58\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rodolfo\downloads\58\mainmenu.h
+	"global.h"
+
+1379459384 c:\users\rodolfo\downloads\58\credits.h
+	"global.h"
+
+1379461767 source:c:\users\rodolfo\downloads\58\mainmenu.c
+	"mainmenu.h"
+
+1379449036 source:c:\users\rodolfo\downloads\58\map.c
+	"map.h"
+	"tower.h"
+
+1379460258 source:c:\users\rodolfo\downloads\58\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rodolfo\downloads\58\player.c
+	"player.h"
+
+1379442184 source:c:\users\rodolfo\downloads\58\round.c
+	"round.h"
+
+1379491777 source:c:\users\rodolfo\downloads\58\shots.c
+	"shots.h"
+
+1378580676 source:c:\users\rodolfo\downloads\58\titlescreen.c
+	"titlescreen.h"
+
+1379492420 source:c:\users\rodolfo\downloads\58\tower.c
+	"tower.h"
+
+1377055867 source:c:\users\rodolfo\downloads\td\animations.c
+	"animations.h"
+
+1377055865 c:\users\rodolfo\downloads\td\animations.h
+	"global.h"
+
+1379459327 c:\users\rodolfo\downloads\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014033 c:\users\rodolfo\downloads\td\cursor.h
+	"global.h"
+
+1377098608 source:c:\users\rodolfo\downloads\td\cursor.c
+	"cursor.h"
+
+1378590268 source:c:\users\rodolfo\downloads\td\ending_lose.c
+	"ending_lose.h"
+
+1378580495 c:\users\rodolfo\downloads\td\ending_lose.h
+	"global.h"
+
+1379445055 source:c:\users\rodolfo\downloads\td\ending_win.c
+	"ending_win.h"
+
+1378580500 c:\users\rodolfo\downloads\td\ending_win.h
+	"global.h"
+
+1379469561 source:c:\users\rodolfo\downloads\td\enemy.c
+	"enemy.h"
+
+1379467604 c:\users\rodolfo\downloads\td\enemy.h
+	"global.h"
+	"map.h"
+
+1379497839 c:\users\rodolfo\downloads\td\map.h
+	"global.h"
+
+1379498347 source:c:\users\rodolfo\downloads\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1379433768 c:\users\rodolfo\downloads\td\gamescreen.h
+	"global.h"
+
+1378218423 c:\users\rodolfo\downloads\td\player.h
+	"global.h"
+	"tower.h"
+
+1379498428 c:\users\rodolfo\downloads\td\tower.h
+	"global.h"
+	"gamescreen.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+	"round.h"
+
+1379491777 c:\users\rodolfo\downloads\td\shots.h
+	"global.h"
+	"enemy.h"
+	"gamescreen.h"
+
+1379441998 c:\users\rodolfo\downloads\td\round.h
+	"global.h"
+	"enemy.h"
+
+1377013255 source:c:\users\rodolfo\downloads\td\global.c
+	"global.h"
+
+1379459061 source:c:\users\rodolfo\downloads\td\initialization.c
+	"initialization.h"
+
+1377013827 c:\users\rodolfo\downloads\td\initialization.h
+	"global.h"
+
+1379492730 source:c:\users\rodolfo\downloads\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"ending_win.h"
+	"ending_lose.h"
+	"credits.h"
+
+1377053899 c:\users\rodolfo\downloads\td\openingscreen.h
+	"global.h"
+
+1377012916 c:\users\rodolfo\downloads\td\titlescreen.h
+	"global.h"
+
+1377013191 c:\users\rodolfo\downloads\td\mainmenu.h
+	"global.h"
+
+1379459384 c:\users\rodolfo\downloads\td\credits.h
+	"global.h"
+
+1379461767 source:c:\users\rodolfo\downloads\td\mainmenu.c
+	"mainmenu.h"
+
+1379497909 source:c:\users\rodolfo\downloads\td\map.c
+	"map.h"
+	"tower.h"
+
+1379460258 source:c:\users\rodolfo\downloads\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013457 source:c:\users\rodolfo\downloads\td\player.c
+	"player.h"
+
+1379442184 source:c:\users\rodolfo\downloads\td\round.c
+	"round.h"
+
+1379491777 source:c:\users\rodolfo\downloads\td\shots.c
+	"shots.h"
+
+1378580676 source:c:\users\rodolfo\downloads\td\titlescreen.c
+	"titlescreen.h"
+
+1379499672 source:c:\users\rodolfo\downloads\td\tower.c
+	"tower.h"
+
+1377055868 source:c:\users\risa\downloads\td\animations.c
+	"animations.h"
+
+1377055866 c:\users\risa\downloads\td\animations.h
+	"global.h"
+
+1379459328 c:\users\risa\downloads\td\global.h
+	<allegro.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"cursor.h"
+
+1377014034 c:\users\risa\downloads\td\cursor.h
+	"global.h"
+
+1377098610 source:c:\users\risa\downloads\td\cursor.c
+	"cursor.h"
+
+1379514822 source:c:\users\risa\downloads\td\ending_lose.c
+	"ending_lose.h"
+
+1378580496 c:\users\risa\downloads\td\ending_lose.h
+	"global.h"
+
+1379514864 source:c:\users\risa\downloads\td\ending_win.c
+	"ending_win.h"
+
+1378580502 c:\users\risa\downloads\td\ending_win.h
+	"global.h"
+
+1379513549 source:c:\users\risa\downloads\td\enemy.c
+	"enemy.h"
+
+1379511760 c:\users\risa\downloads\td\enemy.h
+	"global.h"
+	"map.h"
+
+1379497840 c:\users\risa\downloads\td\map.h
+	"global.h"
+
+1379515598 source:c:\users\risa\downloads\td\gamescreen.c
+	"gamescreen.h"
+	"map.h"
+	"player.h"
+	"enemy.h"
+	"round.h"
+
+1379433770 c:\users\risa\downloads\td\gamescreen.h
+	"global.h"
+
+1378218424 c:\users\risa\downloads\td\player.h
+	"global.h"
+	"tower.h"
+
+1379509480 c:\users\risa\downloads\td\tower.h
+	"global.h"
+	"gamescreen.h"
+	"player.h"
+	"shots.h"
+	"enemy.h"
+	"round.h"
+
+1379491778 c:\users\risa\downloads\td\shots.h
+	"global.h"
+	"enemy.h"
+	"gamescreen.h"
+
+1379442000 c:\users\risa\downloads\td\round.h
+	"global.h"
+	"enemy.h"
+
+1377013256 source:c:\users\risa\downloads\td\global.c
+	"global.h"
+
+1379511922 source:c:\users\risa\downloads\td\initialization.c
+	"initialization.h"
+
+1377013828 c:\users\risa\downloads\td\initialization.h
+	"global.h"
+
+1379508594 source:c:\users\risa\downloads\td\main.c
+	"global.h"
+	"initialization.h"
+	"openingscreen.h"
+	"titlescreen.h"
+	"mainmenu.h"
+	"gamescreen.h"
+	"ending_win.h"
+	"ending_lose.h"
+	"credits.h"
+
+1377053900 c:\users\risa\downloads\td\openingscreen.h
+	"global.h"
+
+1377012918 c:\users\risa\downloads\td\titlescreen.h
+	"global.h"
+
+1377013192 c:\users\risa\downloads\td\mainmenu.h
+	"global.h"
+
+1379510474 c:\users\risa\downloads\td\credits.h
+	"global.h"
+
+1379515013 source:c:\users\risa\downloads\td\mainmenu.c
+	"mainmenu.h"
+
+1379497910 source:c:\users\risa\downloads\td\map.c
+	"map.h"
+	"tower.h"
+
+1379514613 source:c:\users\risa\downloads\td\openingscreen.c
+	"openingscreen.h"
+	"animations.h"
+
+1377013458 source:c:\users\risa\downloads\td\player.c
+	"player.h"
+
+1379442186 source:c:\users\risa\downloads\td\round.c
+	"round.h"
+
+1379514339 source:c:\users\risa\downloads\td\shots.c
+	"shots.h"
+
+1379514569 source:c:\users\risa\downloads\td\titlescreen.c
+	"titlescreen.h"
+
+1379514074 source:c:\users\risa\downloads\td\tower.c
+	"tower.h"
+
+1379514779 source:c:\users\risa\downloads\td\credits.c
+	"credits.h"
+
