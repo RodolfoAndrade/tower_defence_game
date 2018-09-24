@@ -1,0 +1,2 @@
+How to install Allegro on Codeblocks:
+https://sites.google.com/a/liesenberg.biz/cjogos/home/software/ambiente-code-blocks-allegro-4

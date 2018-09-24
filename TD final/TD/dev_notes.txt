@@ -1,0 +1,20 @@
+DEV NOTES:
+Obs: borda 20x20
+
+Falta pegar uma tela legal pra title e pra main.
+
+?) transparencia vermelha na torra caso o cara tente
+colocar no meio do caminho ou em cima de outra torre
+transparencia verde se local estiver disponivel
+
+nao queria carregar a msm imagem varias vezes dentro de enemy_info :/
+
+Prioridade das torres na hora de atirar
+prioridade na hora q vc coloca uma torre normal no mapa sendo que outra torre normal que ja estava no mapa teve sua prioridade modificada
+
+quando o inimigo sai da range ele n tá escolhendo outro inimigo
+ele tá esperando o inimigo antigo voltar pra range
+
+quando vc coloca a torre
+vende e coloca em outro canto
+o tiro, em vez de sair da torre nova, sai da posicao onde tava a torre antiga lol
