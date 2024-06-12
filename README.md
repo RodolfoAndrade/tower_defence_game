@@ -3,6 +3,8 @@ This game was create on Informatics Center, Federal University of Pernambuco (UF
 
 It is a 2d tower defense game style with Warcraft II Theme. It was programmed in C language together with Allegro library on Windows platform using Code::Blocks IDE.
 
+![alt text](screenshot.png)
+
 Developers: Rebecca Rolim and Rodolfo Andrade
 
 To play on Windows, double-click the TD.exe file inside the folder Warcraft_II_TD/TD.
